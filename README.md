@@ -12,7 +12,7 @@ L’objectif principal est d’aider à la **prise de décision avant l’octroi
 
 * Gérer les clients et leurs informations financières
 * Gérer les prêts (création, modification, suppression, consultation)
-* Calculer automatiquement les remboursements
+* Calculer automatiquement les taux
 * Prédire le risque de défaut avant l’enregistrement d’un prêt
 * Sécuriser l’accès à l’application via une authentification administrateur
 
@@ -117,7 +117,7 @@ Le projet intègre deux modèles de Machine Learning afin de comparer leurs perf
 
 * CRUD Clients
 * CRUD Prêts
-* Calcul automatique du remboursement
+* Calcul automatique du taux
 * Prédiction du risque de défaut (>50 % affiché en rouge)
 * Messages de succès et d’erreur
 * Authentification / Déconnexion
